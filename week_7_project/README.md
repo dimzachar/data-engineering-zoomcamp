@@ -59,8 +59,6 @@ Example dashboard: ![image](https://user-images.githubusercontent.com/4315804/15
 > * To get points for your project, you need to evaluate 3 projects of your peers
 > * You get 3 extra points for each evaluation
 
-Tip: you can use https://nbviewer.org/ to render notebooks if GitHub doesn't work
-
 ## Evaluation Criteria
 
 * Problem description
